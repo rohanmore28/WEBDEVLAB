@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <style>
+       #meresec table,th,td{
+        border:2px solid black;
+        text-align:center;
+       }
+       #meresec{
+        border-collapse:collapse;
+        margin-left :500px;
+        margin-top:3px;
+       }
+      </style>
+      <title>Time Table</title>
+      </head>
+      <body>
+        <h1 style="color:black;text-align:center">Let's Create Time-Table</h1>
+      <hr>
+    <table id="meresec">
+        <!-- 1st Row start -->
+        <tr>
+            <th>Time</th>
+            <th>11:00-12:00</th>
+            <th>12:00-1:00</th>
+            <th>1:45-2:45</th>
+            <th>2:45-3:45</th>
+            <th>3:45-4:45</th>
+            <th>4:45-5:45</th>
+        </tr>
+        <!-- 1st Row End -->
+        <!-- 2nd Row Start -->
+        <tr>
+            <th>Period</th>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+            <th>4</th>
+            <th>5</th>
+            <th>6</th>
+        </tr>
+        <!-- 2nd Row End -->
+        <!-- 3rd Row Start -->
+        <tr>
+            <th>Mon</th>
+            <td>FA <br>
+                MBA
+            </td>
+            <td>FA<br>
+                MBA
+            </td>
+            <td>FA<br>
+                MBA
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <!-- 3rd Row End -->
+        <!-- 4th Row Start -->
+        <tr>
+            <th>Tue</th>
+            <td>FA<br>
+                MBA
+            </td>
+            <td>FA<br>
+                MBA
+            </td>
+            <td>FA<br>
+                MBA
+            </td>
+            <td colspan="3">F4-WDL-KB </td>
+        </tr>
+        <!-- 4th Row End -->
+        <!-- 5th Row Start -->
+        <tr>
+            <th>Wed</th>
+            <td>WDI<br>
+                KB
+            </td>
+            <td>FC<br>
+                ACW
+            </td>
+            <td>PCI<br>
+                PKP
+            </td>
+            <td>PCI<br>
+                PKP
+            </td>
+            <td colspan="2">F1-FCL-PKP<br>
+                F2-WDL-KB<br>
+                F3-PCIL-DW
+            </td>
+         </tr>
+         <!-- 5th Row End -->
+         <!-- 6th Row Start -->
+         <tr>
+            <th>Thu</th>
+            <td></td>
+            <td>WDI<br>
+                KB
+            </td>
+            <td>PCI<br>
+                PKP
+            </td>
+            <td colspan="3">F2-PCIL-PKP<br>
+                F3-FCL-KB
+            </td>
+         </tr>
+         <!-- 6th Row End -->
+         <!-- 7th Row Start -->
+         <tr>
+            <th>FRI</th>
+            <td></td>
+            <td>WDI<br>
+                KB
+            </td>
+            <td>FC<br>
+                ACW
+            </td>
+            <td>WDI<br>
+                KB
+            </td>
+            <td colspan="2">F1-FCL-ACW<br>
+                F4-WDL-KB
+            </td>
+        </tr> 
+        <!-- 7th Row End -->
+        <!-- 8th Row Start -->
+        <tr>
+            <th>Sat</th>
+                <td colspan="2">F1-WDL-KB<br>
+                    F4--FCL-ACW<br>
+                    F4-PCIL-PKP
+                </td>
+                <td>FC<br>
+                    ACW
+                </td>
+                <td>FC<br>
+                    ACW
+                </td>
+                <td colspan="2">F3-WDL-KB</td>
+            </tr>
+    </table>
+</body>   
+</html>
+

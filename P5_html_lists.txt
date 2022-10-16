@@ -1,0 +1,60 @@
+<!Doctype html>
+<html>
+<head>
+    <title>Practical3</title>
+</head>
+<body bgcolor="aqua">
+    <h1 style="text-align:center;color:red;background-color: yellow;">Let's Learn Lists</h1>
+    <hr>
+    <h2 style="color:blueviolet">Ordered Lists</h2>
+   <ol>
+       <li>First Item</li>
+    </ol>
+    <!-- capital Roman -->
+    <ol type="I">
+       <li>First Item</li>
+    </ol>
+    <!-- Small Roman -->
+    <ol type="i">
+       <li>First Item</li>
+    </ol>
+    <!-- Capital Alphabet -->
+    <ol type="A">
+      <li>First Item</li>
+      <li>Second Item</li>
+    </ol>
+    <!-- Small Alphabet -->
+    <ol type="a">
+      <li>First Item</li>
+      <li>Second Item</li>
+    </ol>
+    <!-- iske upar -->
+    <hr>
+    <h2 style="color:red">Unordered Lists</h2>
+    </ul>
+    <ul>
+        <li>First Item</li>
+    </ul>
+    <!-- Square -->
+    <ul type="square">
+        <li>First Item</li>
+        <li>Second Item</li>
+    </ul>
+    <!-- cicle -->
+    <ul type="circle">
+        <li>First Item</li>
+        <li>Second Item</li>
+    </ul>
+    <!-- None  -->
+    <ul type="None">
+        <li>First Item</li>
+    </ul>
+    <!-- iske upar ul -->
+    <hr>
+    <h2 style="color:goldenrod">Description Lists</h2>
+    <dl>
+      <dt>F2</dt>
+        <dd>Intelligent Batch</dd>
+    </dl>
+    </body>
+    </html>

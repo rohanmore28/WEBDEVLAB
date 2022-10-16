@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <title>Practical</title>
+    <style>
+        div{
+            font-size:50px;
+            text-align:center;
+            margin-top:40px;
+            margin-left:250px;
+            margin-right:250px;
+            border:2px solid black;
+           }
+    </style>
+</head>
+<body>
+    <h1 style="color:#693D3D;background-color: #e2d810;text-align: center;">
+    Myself Rohan More<br>
+    You may connect to me through the below links
+    </h1>
+    <div>
+<a href="https://www.linkedin.com/in/rohan-more-373108249">Linkedin </a> 
+</div> 
+<div>
+<a href="https://github.com/rohanmore28">Github</a> </div> 
+<div>
+<a href="mailto: rohanmore2809@gmail.com">Gmail</a> 
+</div> 
+<div>
+<a href="Practical3.html">webpage</a>
+</div>
+</body> 
+</html>

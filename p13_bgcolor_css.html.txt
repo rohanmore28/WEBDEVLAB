@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>My First Program</title>
+</head>
+<body bgcolor="gray"text="Black">
+    <font align="center" face="Times New Roman" color="Red">
+        <h1 align="center"> SSBT's Arts Commerce Science Collage,Bombhori, Jalgaon</h1>
+    </font></br>
+    <hr>
+    <h2> Welcome to the world of SSBT</h2>
+    <h3><em>FYBCA</em></h3>
+    <p><b>BCA first year</b>,we heartly welcomes you in our department.</p>
+</body>
+</html>

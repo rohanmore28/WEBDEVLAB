@@ -1,0 +1,35 @@
+<Doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align:center;color:blueviolet;background-color:aquamarine">
+    Let's Learn Marquee
+    </h1>
+    <hr>
+    <h1>
+        Marquee Behaviour
+    </h1>
+    <h2>
+        Scrolling
+    </h2>
+    <marquee behaviour="scrolling"direction="left">I am scrolling left</marquee>
+    <marquee behaviour="scrolling"direction="right">I am scrolling right</marquee>
+    <marquee behaviour="scrolling"direction="up">I am scrolling upward</marquee>
+    <marquee behaviour="scrolling"direction="down">I am scrolling downward</marquee>
+    <hr>
+    <h2>
+        Sliding
+    </h2>
+    <marquee behaviour="slide"direction="">I am sliding</marquee>
+    <hr>
+    <h2>
+        Alternate
+    </h2>
+    <marquee behaviour="alternate"direction="">I am being alternate</marquee>
+</body>
+</html>

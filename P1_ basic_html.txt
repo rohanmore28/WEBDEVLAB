@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head> 
+<body>
+    <h1>
+        SSBT's Arts Commerce Science College,Bambhori,Jalgaon
+    </h1>
+    <p>
+        Welcome to the world of SSBT<br>
+        I am a student of FY BCA<br>
+        I heartly welcome you all<br>
+        Thank You!!!!
+    </p>
+</body>   
+</html>
